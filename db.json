@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "name": "",
+    "email": "",
+    "mobile_No": "8141949394",
+    "dob": "2020-10-27T00:00:00Z",
+    "gender": "",
+    "profile_Pic": "",
+    "current_Portal": "User",
+    "is_Eventee": false,
+    "is_Appointee": false,
+    "otp": 0
+}
