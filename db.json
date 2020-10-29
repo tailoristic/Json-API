@@ -1,14 +1,12 @@
 {
-   "user":[
-      {
-         "id":1,
-         "name":"",
-         "email":"",
-         "mobile_No":"8141949394",
-         "dob":"2020-10-27T00:00:00Z",
-         "gender":""
-      }
-   ],
+   "user":{
+      "id":1,
+      "name":"",
+      "email":"",
+      "mobile_No":"8141949394",
+      "dob":"2020-10-27T00:00:00Z",
+      "gender":""
+   },
    "profile":{
       "profile_Pic":"",
       "current_Portal":"User",
