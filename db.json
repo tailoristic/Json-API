@@ -1,7 +1,11 @@
 {
-    "id": 1,
-    "name": "",
-    "email": "",
-    "gender": "",
-    "current_Portal": "User"
+  "user": [
+    {
+      "id": 1,
+      "name": ""
+    }
+  ],
+  "profile": {
+    "name": ""
+  }
 }
